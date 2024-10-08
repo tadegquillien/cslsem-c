@@ -16,7 +16,7 @@ const ConsentForm = (props) => {
 <p>This document explains what kind of study we’re doing, what your rights are, and what will be done with your data. You should print this page for your records.</p>
 
 <h2>Nature of the study</h2>
-<p>You are invited to participate in a study which involves observing, interacting with, and making judgments about simple stimuli on a web-based interface. Once you finish, we may have some questions about you and feedback about how you approached the task. Your responses will be recorded. Your session should last for up to 10 minutes. You will be given full instructions shortly.</p>
+<p>You are invited to participate in a study which involves observing, interacting with, and making judgments about simple stimuli on a web-based interface. Once you finish, we may have some questions about you and feedback about how you approached the task. Your responses will be recorded. You will be given full instructions shortly.</p>
 
 <h2>Compensation</h2>
 <p>You will be paid for your participation in this study in accordance with the study description on Prolific.</p>
